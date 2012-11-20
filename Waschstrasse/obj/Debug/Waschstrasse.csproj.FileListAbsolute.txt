@@ -1,0 +1,10 @@
+C:\Users\Christian\Dropbox\Studium\LVH\Methoden der Programmierung\Semester-3\Aufgaben\Waschstrasse\Waschstrasse\Waschstrasse\bin\Debug\Waschstrasse.exe.config
+C:\Users\Thomas\Dropbox\ZHAW\LVH\Methoden der Programmierung\Semester-3\Aufgaben\Waschstrasse\Waschstrasse\Waschstrasse\bin\Debug\Waschstrasse.exe.config
+C:\Users\Christian\Dropbox\Studium\LVH\Methoden der Programmierung\Semester-3\Aufgaben\Waschstrasse\Waschstrasse\Waschstrasse\obj\Debug\Waschstrasse.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Dropbox\Studium\LVH\Methoden der Programmierung\Semester-3\Aufgaben\Waschstrasse\Waschstrasse\Waschstrasse\bin\Debug\Waschstrasse.exe
+C:\Users\Christian\Dropbox\Studium\LVH\Methoden der Programmierung\Semester-3\Aufgaben\Waschstrasse\Waschstrasse\Waschstrasse\bin\Debug\Waschstrasse.pdb
+C:\Users\Christian\Dropbox\Studium\LVH\Methoden der Programmierung\Semester-3\Aufgaben\Waschstrasse\Waschstrasse\Waschstrasse\obj\Debug\Waschstrasse.exe
+C:\Users\Christian\Dropbox\Studium\LVH\Methoden der Programmierung\Semester-3\Aufgaben\Waschstrasse\Waschstrasse\Waschstrasse\obj\Debug\Waschstrasse.pdb
+C:\Users\Christian\Documents\GitHub\Waschanlage\Waschstrasse\bin\Debug\Waschstrasse.exe.config
+C:\Users\Christian\Documents\GitHub\Waschanlage\Waschstrasse\obj\Debug\Waschstrasse.exe
+C:\Users\Christian\Documents\GitHub\Waschanlage\Waschstrasse\obj\Debug\Waschstrasse.pdb
